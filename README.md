@@ -29,7 +29,8 @@
 * 直接下载本项目release包。
 
 ### 自行编译
-* Clone本项目源码，pom.xml同级目录执行`mvn package`后即可进行编译。
+* 安装maven【下载地址https://maven.apache.org/download.cgi】，参考https://blog.csdn.net/finally_vince/article/details/127732476
+* Clone本项目源码，cd到pom.xml同级目录，执行`mvn package`后即可进行编译。
 * *如果你不知道我在说什么，最好还是直接下载我编译好的包。*
 
 ### 使用帮助
@@ -66,5 +67,3 @@
 ### 交流
 * 给本项目发issue。
 * 欢迎你来一起完善这个项目，请发PR。
-* 你可以加入QQ群：30347511 和我实时交流。
-* 访问网站：[https://zhile.io](https://zhile.io) 给我留言。
